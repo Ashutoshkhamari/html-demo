@@ -28,7 +28,7 @@ background-color: #cccccc;
 
 			</ul>
 			<strong>Favourite Quotes</strong><br>
-			<p>Here is a favourite Quote of mine</p>
+			<p class="my_box">Here is a favourite Quote of mine</p>
 			<p class="my_box">...and another</p>
 		</div>
 
